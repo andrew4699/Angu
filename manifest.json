@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Angu",
+  "description": "Angu adds additional functionality to your computer to make life a lot easier.",
+  "version": "1.0",
+
+  "background":
+  {
+    "scripts": ["handler.js"]
+  },
+
+  "permissions": ["nativeMessaging", "notifications", "activeTab", "tabs", "background", "http://*/*", "https://*/*"]
+}

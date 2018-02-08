@@ -1,0 +1,12 @@
+c:\users\andrew4699\documents\visual studio 2015\Projects\Angu\Angu\bin\Debug\Angu.exe.config
+c:\users\andrew4699\documents\visual studio 2015\Projects\Angu\Angu\bin\Debug\Angu.exe
+c:\users\andrew4699\documents\visual studio 2015\Projects\Angu\Angu\bin\Debug\Angu.pdb
+c:\users\andrew4699\documents\visual studio 2015\Projects\Angu\Angu\obj\Debug\Angu.csprojResolveAssemblyReference.cache
+c:\users\andrew4699\documents\visual studio 2015\Projects\Angu\Angu\obj\Debug\Angu.Angu.resources
+c:\users\andrew4699\documents\visual studio 2015\Projects\Angu\Angu\obj\Debug\Angu.Properties.Resources.resources
+c:\users\andrew4699\documents\visual studio 2015\Projects\Angu\Angu\obj\Debug\Angu.csproj.GenerateResource.Cache
+c:\users\andrew4699\documents\visual studio 2015\Projects\Angu\Angu\obj\Debug\Angu.exe
+c:\users\andrew4699\documents\visual studio 2015\Projects\Angu\Angu\obj\Debug\Angu.pdb
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\Angu\Angu\obj\Debug\Angu.Notification.resources
+C:\Users\Andrew4699\documents\visual studio 2015\Projects\Angu\Angu\bin\Debug\DotNetZip.dll
+C:\Users\Andrew4699\documents\visual studio 2015\Projects\Angu\Angu\bin\Debug\DotNetZip.xml

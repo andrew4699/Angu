@@ -1,0 +1,9 @@
+{
+  "name": "com.angu.angu",
+  "description": "Angu",
+  "path": "C:\\Users\\Andrew4699\\Desktop\\Angu\\Angu.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://hndbikbnkbocfnkjkenpboipnnigcimk/"
+  ]
+}
